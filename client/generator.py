@@ -7,7 +7,7 @@ import time
 import random
 import json
 
-api_endpoint = "http://localhost:8888/cpuusage"
+api_endpoint = "http://46.101.96.195:80/cpuusage"
 payloadsGenerated = 0
 clients = 100
 measures_per_payload = 10
